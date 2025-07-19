@@ -28,7 +28,7 @@ A machine learning model that detects fake news articles using natural language 
 
 ## 📊 Dataset
 
-- Dataset used: [Kaggle Fake News Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset) *(or mention your source)*
+- Dataset used: [Kaggle Fake News Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset) 
 - Includes labeled real and fake news articles
 
 ---
